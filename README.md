@@ -77,7 +77,7 @@ https://visualstudio.microsoft.com/downloads/
 
 2) Download and build `libusb` for Windows using this solution:
 
-https://github.com/libusb/libusb/blob/master/msvc/libusb_2019.sln
+https://github.com/libusb/libusb/blob/master/msvc/libusb.sln
 
 3) Download and build `linux-adk` using this solution:
 
