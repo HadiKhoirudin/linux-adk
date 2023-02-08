@@ -6,7 +6,7 @@ This software aims to turn your GNU/Linux machine into an Android Accessory.
 
 It initializes any Android device connected via USB as detailed on Android website:
 
-http://source.android.com/tech/accessories/aoap/aoa.html
+https://source.android.com/docs/core/interaction/accessories/protocol
 
 ## How to use
 
